@@ -3,7 +3,7 @@
 How are you today?
 Please visit [McMaster Start Coding](https://outreach.mcmaster.ca) website
 
-
+![Image](sun.jpg)
 
 ## Welcome to GitHub Pages
 
