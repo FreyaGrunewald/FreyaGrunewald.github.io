@@ -5,7 +5,7 @@ Please visit [McMaster Start Coding](https://outreach.mcmaster.ca) website
 
 ![Sunny Smile](sun.jpg)
 
-
+[About Me](about)
 
 ## Welcome to GitHub Pages
 
