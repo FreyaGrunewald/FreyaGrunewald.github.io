@@ -7,6 +7,8 @@ Please visit [McMaster Start Coding](https://outreach.mcmaster.ca) website
 
 [About Me](about)
 
+this | that | the other thing
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/FreyaGrunewald/FreyaGrunewald.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
