@@ -1,10 +1,3 @@
-## Welcome to my website!
-
-How are you today?
-Please visit [McMaster Start Coding](https://outreach.mcmaster.ca) website
-
-![Image](sun.jpg)
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/FreyaGrunewald/FreyaGrunewald.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
