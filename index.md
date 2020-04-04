@@ -4,7 +4,8 @@ How are you today?
 Please visit [McMaster Start Coding](https://outreach.mcmaster.ca) website
 
 ![Sunny Smile](sun.jpg)
-index?
+
+
 
 ## Welcome to GitHub Pages
 
